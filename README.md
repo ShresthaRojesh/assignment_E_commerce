@@ -5,9 +5,7 @@ Then run the application using vscode or android studio.
 Now Sign throug the App.
 
 
-![1](https://github.com/ShresthaRojesh/assignment_E_commerce/assets/95910095/0476f824-22ea-452c-bf13-5456a65bb586)
-![2](https://github.com/ShresthaRojesh/assignment_E_commerce/assets/95910095/80925cf9-c268-4428-8a75-cf22a6b5046e)
-![3](https://github.com/ShresthaRojesh/assignment_E_commerce/assets/95910095/fb630fa6-a6ae-4da7-aa72-466aa7b021a2)
+![1](https://github.com/ShresthaRojesh/assignment_E_commerce/assets/95910095/0476f824-22ea-452c-bf13-5456a65bb586) ![2](https://github.com/ShresthaRojesh/assignment_E_commerce/assets/95910095/80925cf9-c268-4428-8a75-cf22a6b5046e)![3](https://github.com/ShresthaRojesh/assignment_E_commerce/assets/95910095/fb630fa6-a6ae-4da7-aa72-466aa7b021a2)
 
 
 
